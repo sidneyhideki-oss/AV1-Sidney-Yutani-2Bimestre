@@ -1,37 +1,63 @@
 body {
   font-family: "Times New Roman", Times, serif;
-  margin: 12px;
+  margin: 10px;
   padding: 5px;
 }
+.inicial {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  background-color: teal;
+  text-align: center;
+}
+
 header {
-  background-color: #333;
-  color: white;
+  background-color: black;
+  color: azure;
   padding: 10px;
   text-align: left;
 }
 nav {
   list-style-type: none;
-  padding: 10px;
+  padding: 5px solid black;
   overflow: hidden;
-  background-color: #333;
+  background-color: cadetblue;
+  text-align: center;
 }
 nav li {
   color: purple;
   text-decoration: none;
   margin: 10px;
 }
+.Link {
+  color: purple;
+  text-decoration: none;
+  margin: 5px;
+}
 main {
-  background-color: #f2f2f2;
-  padding: 20px;
+  background-color: darkgoldenrod;
+  padding: 5px;
 }
 section {
   margin-bottom: 20px;
   padding: 15px;
-  border: 1px;
+  border: 2px solid black;
+  color: aquamarine;
+}
+
+.sobre {
+  color: black;
+  text-align: right;
 }
 footer {
-  background-color: #333;
-  color: white;
+  background-color: black;
+  color: darksalmon;
   text-align: center;
   padding: 10px;
+  width: 50%;
+}
+.AV1 {
+  color: gray;
+}
+.END {
+  text-align: left;
 }
