@@ -8,7 +8,7 @@ body {
     Times,
     serif;
   margin: 1%;
-  background-color: lightblue;
+  background-color: black;
 }
 .inicial {
   font-family:
@@ -46,7 +46,7 @@ nav li {
   margin: 5px;
 }
 main {
-  background-color: limegreen;
+  background-color: rgba(0, 235, 215, 0.329);
   padding: 5px;
 }
 section {
@@ -73,4 +73,14 @@ footer {
 
 .A {
   color: black;
+}
+.foco{
+  text-align: center;
+}
+.foco img {
+  width: 300px;
+  height: 500px;
+  margin: 10px; 
+  object-fit: contain;
+  display: inline-block;
 }
