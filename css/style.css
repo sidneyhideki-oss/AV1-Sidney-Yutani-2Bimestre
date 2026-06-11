@@ -53,7 +53,7 @@ section {
   margin-bottom: 20px;
   padding: 15px;
   color: aquamarine;
-  border: 3px solid fuchsia;
+  border: 3px solid aqua;
 }
 
 .sobre {
@@ -83,4 +83,18 @@ footer {
   margin: 10px; 
   object-fit: contain;
   display: inline-block;
+}
+.área{
+  background-color: cadetblue;
+  text-align: center;
+}
+.contato2{
+  background-color: lightcoral;
+  color: white;
+}
+.contato1{
+  color: black;
+}
+.sobre1{
+  background-color: lightcoral;
 }
