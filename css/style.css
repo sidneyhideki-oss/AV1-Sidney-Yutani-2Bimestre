@@ -52,7 +52,7 @@ main {
 section {
   margin-bottom: 20px;
   padding: 15px;
-  color: aquamarine;
+  color: blanchedalmond;
   border: 3px solid aqua;
 }
 
@@ -97,4 +97,16 @@ footer {
 }
 .sobre1{
   background-color: lightcoral;
+}
+.tabela {
+  text-align: center;
+  width: 90%;
+}
+.descricao {
+  text-decoration-line: underline;
+  text-decoration-color: red; 
+  text-transform: capitalize;
+ text-align: left;
+  color: white;
+ width: 50%;
 }
